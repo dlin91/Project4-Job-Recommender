@@ -5,8 +5,8 @@
 Utilizing NLP and tools to build a job recommender system. Data from kaggle will be used and can be found here. 
 
 Notebooks:
-Project4_Job_Recommender.ipynb - contains the code for modeling and developing a recommender system. 
-Project4_mongo.ipynb - contains the code for grabbing the data from mongodb that has been uploaded to AWS
+Project4_Job_Recommender.ipynb - contains the code for modeling and developing a recommender system  
+Project4_mongo.ipynb - contains the code for grabbing the data from mongodb that has been uploaded to AWS  
 
 # Introduction:
 
